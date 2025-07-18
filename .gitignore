@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+*.conda
+*.env
+*.sh
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python virtual environment folders
+*.egg-info/
+.eggs/
+*.egg
+
+# DVC (if using)
+.dvc/
+
+# Outputs / logs / results
+outputs/
+logs/
+runs/
+wandb/
+*.log
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# Images / figures (intermediate or auto-generated)
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.webp
+
+# Notebooks with outputs (optional)
+# *.nbconvert.ipynb
+
+# Project-specific
+__outputs__/
+datasets/cache/
+tmp/
+.cache/
+*.tar.gz
+*.zip
