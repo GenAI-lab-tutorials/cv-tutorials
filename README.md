@@ -1,6 +1,24 @@
-# CV Tutorials
+# 🧠 GenAI Lab – Computer Vision Tutorials
 
-A curated collection of tutorials covering the breadth of **Computer Vision**, from foundational concepts to cutting-edge **Generative AI** applications.
+[![Build & Deploy](https://github.com/shravan147/GenAI-lab-tutorials/actions/workflows/deploy.yml/badge.svg)](https://github.com/shravan147/GenAI-lab-tutorials/actions)
+[![Jupyter Book](https://img.shields.io/badge/view-book-2ea44f.svg?logo=readthedocs)](https://shravan147.github.io/GenAI-lab-tutorials/cv-tutorials/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+> 📘 A curated collection of tutorials covering the breadth of **Computer Vision**, from foundational concepts to cutting-edge **Generative AI** applications.
+
+---
+
+## 📚 Live Book Preview
+
+📖 [Click here to view the full interactive Jupyter Book ➜](https://shravan147.github.io/GenAI-lab-tutorials/cv-tutorials/)
+
+Short-form, high-impact tutorials include:
+- 📷 Image Basics (pixels, RGB, histograms)
+- 🌈 Color Spaces (HSV, LAB)
+- 🧪 Filters and Transforms
+- 📦 Segmentation & Object Detection
+- 🤖 Vision Transformers & CLIP
+- 🌀 Generative AI (Diffusion, Inpainting)
 
 ---
 
