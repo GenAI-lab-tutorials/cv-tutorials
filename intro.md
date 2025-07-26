@@ -10,6 +10,8 @@ This book is a curated collection of short-form, high-impact tutorials that cove
 
 Whether you're a beginner exploring pixel arrays, or an AI engineer diving into transformers and CLIP, this is for you.
 
+Let's Dive in 
+
 ---
 
 ## 🧭 What You'll Learn
