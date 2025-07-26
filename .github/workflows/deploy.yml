@@ -3,7 +3,7 @@ name: 📘 Build & Deploy Jupyter Book
 on:
   push:
     branches:
-      - main  # or 'master' if that's your default
+      - main
 
 permissions:
   contents: write
@@ -26,9 +26,9 @@ jobs:
           pip install -U pip
           pip install jupyter-book
 
-      - name: 🧱 Build Jupyter Book (no execution)
+      - name: 🧱 Build Jupyter Book (skip execution via config)
         run: |
-          jupyter-book build . --no-execute
+          jupyter-book build .
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
