@@ -90,3 +90,19 @@ tmp/
 .cache/
 *.tar.gz
 *.zip
+
+
+# Datasets
+datasets/
+*.cache
+
+# Inference / training results
+runs/
+outputs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode or PyCharm
+.vscode/
+.idea/

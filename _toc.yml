@@ -1,0 +1,5 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: tutorials/fundamentals_of_computer_vision/01_image_basics
